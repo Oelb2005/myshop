@@ -1,0 +1,42 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 07 Apr 2023 01:41:14 at https://mapp.sa/ http://mapp.sa/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://mapp.sa/ http://mapp.sa/ -O1 "C:\Users\user\Desktop\www.mapp.sa" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:41:37	Error: 	"Not Found" (404) at link https://mapp.sa/matajer/img/matajerApp.png (from https://mapp.sa/)
+01:41:37	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://mapp.sa/)
+01:42:26	Warning: 	Link https://mapp.sa/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+01:42:42	Error: 	"Not Found" (404) at link https://cdn.mapp.sa/matajerLandingPage/fonts/s.eot?tc3uo0 (from https://cdn.mapp.sa/matajerLandingPage/fonts/line-icons.css)
+01:42:42	Error: 	"Not Found" (404) at link https://cdn.mapp.sa/matajerLandingPage/fonts/s.ttf?tc3uo0 (from https://cdn.mapp.sa/matajerLandingPage/fonts/line-icons.css)
+01:42:42	Error: 	"Not Found" (404) at link https://cdn.mapp.sa/matajerLandingPage/fonts/s.woff?tc3uo0 (from https://cdn.mapp.sa/matajerLandingPage/fonts/line-icons.css)
+01:42:42	Error: 	"Not Found" (404) at link https://cdn.mapp.sa/matajerLandingPage/fonts/s.svg?tc3uo0 (from https://cdn.mapp.sa/matajerLandingPage/fonts/line-icons.css)
+01:42:42	Error: 	"Not Found" (404) at link https://cdn.mapp.sa/matajerLandingPage/css/owl.video.play.png (from https://cdn.mapp.sa/matajerLandingPage/css/owl.carousel.min.css)
+01:42:42	Error: 	"Not Found" (404) at link https://cdn.mapp.sa/matajerLandingPage/img/back_star.png (from https://cdn.mapp.sa/matajerLandingPage/css/main.css?version=1680776865)
+01:42:42	Error: 	"Not Found" (404) at link https://cdn.mapp.sa/matajerLandingPage/css/hinted-SSTArabic-Medium.eot (from https://cdn.mapp.sa/matajerLandingPage/css/main.css?version=1680776865)
+01:42:42	Error: 	"Not Found" (404) at link https://cdn.mapp.sa/matajerLandingPage/css/hinted-SSTArabic-Medium.ttf (from https://cdn.mapp.sa/matajerLandingPage/css/main.css?version=1680776865)
+01:42:42	Error: 	"Not Found" (404) at link https://cdn.mapp.sa/matajerLandingPage/css/hinted-SSTArabic-Light.eot (from https://cdn.mapp.sa/matajerLandingPage/css/main.css?version=1680776865)
+01:42:42	Error: 	"Not Found" (404) at link https://cdn.mapp.sa/matajerLandingPage/css/hinted-SSTArabic-Light.ttf (from https://cdn.mapp.sa/matajerLandingPage/css/main.css?version=1680776865)
+01:42:42	Error: 	"Not Found" (404) at link https://cdn.mapp.sa/matajerLandingPage/css/hinted-SSTArabic-Roman.eot (from https://cdn.mapp.sa/matajerLandingPage/css/main.css?version=1680776865)
+01:42:42	Error: 	"Not Found" (404) at link https://cdn.mapp.sa/matajerLandingPage/css/hinted-SSTArabic-Roman.ttf (from https://cdn.mapp.sa/matajerLandingPage/css/main.css?version=1680776865)
+01:42:42	Error: 	"Not Found" (404) at link https://cdn.mapp.sa/matajerLandingPage/img/hero-area.png (from https://cdn.mapp.sa/matajerLandingPage/css/main.css?version=1680776865)
+01:42:42	Error: 	"Not Found" (404) at link https://mapp.sa/modal (from https://mapp.sa/login)
+01:42:44	Error: 	"Forbidden" (403) at link https://mapp.sa/javascript; (from https://mapp.sa/register)
+01:42:44	Error: 	"Not Found" (404) at link https://cdn.mapp.sa/matajerLandingPage/js/j/bootstrap-validate.js (from https://mapp.sa/register)
+01:43:11	Error: 	"Method Not Allowed" (405) at link https://mapp.sa/shatlah/addToCart (from https://mapp.sa/shatlah)
+01:43:11	Error: 	"Method Not Allowed" (405) at link https://mapp.sa/shatlah/autoCompleteSearch (from https://mapp.sa/shatlah)
+01:43:11	Error: 	"Not Found" (404) at link https://mapp.sa/autoCompleteSearch (from https://mapp.sa/shatlah)
+01:43:11	Error: 	"Not Found" (404) at link https://mapp.sa/cartAddFormShow?shatlah (from https://mapp.sa/shatlah)
+01:43:11	Error: 	"Method Not Allowed" (405) at link https://mapp.sa/shatlah/cart/addFormShow (from https://mapp.sa/shatlah)
+01:43:14	Error: 	"Not Found" (404) at link https://mapp.sa/c (from https://connect.facebook.net/en_US/fbevents.js)
+01:43:14	Error: 	"Not Found" (404) at link https://mapp.sa/b (from https://connect.facebook.net/en_US/fbevents.js)
+01:43:28	Error: 	"Not Found" (404) at link https://cdn.mapp.sa/webStore/themes/premium/images/pattern.png (from https://cdn.mapp.sa/webStore/themes/premium/css/style.css?version=1680776865)
+01:43:30	Error: 	"Not Found" (404) at link https://mapp.sa/shatlah/modal (from https://mapp.sa/shatlah/cart)
+01:43:30	Error: 	"Not Found" (404) at link https://cdn.jsdelivr.net/npm/bootstrap-select@1.13.9/dist/js/i18n/defaults-*.min.js (from https://mapp.sa/shatlah/cart)
+01:44:07	Error: 	"Method Not Allowed" (405) at link https://mapp.sa/post/autoCompleteSearch (from https://mapp.sa/POST)
+01:44:34	Error: 	"Not Found" (404) at link https://mapp.sa/post/modal (from https://mapp.sa/post/shipping)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 23 seconds : 520 links scanned, 488 files written (26589222 bytes overall) [13009389 bytes received at 64085 bytes/sec], 18116263 bytes transferred using HTTP compression in 298 files, ratio 21%, 10.8 requests per connection
+(30 errors, 1 warnings, 0 messages)
